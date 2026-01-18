@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.3d4861d5.css",
-    "main.js": "/static/js/main.c746f0d8.js",
-    "static/js/453.751e04e5.chunk.js": "/static/js/453.751e04e5.chunk.js",
-    "static/media/lipstickvid.mp4": "/static/media/lipstickvid.25f57c4afafb10d7db17.mp4",
-    "static/media/logo.jpg": "/static/media/logo.4156715f77389c388023.jpg",
-    "index.html": "/index.html",
-    "main.3d4861d5.css.map": "/static/css/main.3d4861d5.css.map",
-    "main.c746f0d8.js.map": "/static/js/main.c746f0d8.js.map",
-    "453.751e04e5.chunk.js.map": "/static/js/453.751e04e5.chunk.js.map"
+    "main.css": "/happy-lips-demo-website/static/css/main.3d4861d5.css",
+    "main.js": "/happy-lips-demo-website/static/js/main.b864b3af.js",
+    "static/js/453.751e04e5.chunk.js": "/happy-lips-demo-website/static/js/453.751e04e5.chunk.js",
+    "static/media/lipstickvid.mp4": "/happy-lips-demo-website/static/media/lipstickvid.25f57c4afafb10d7db17.mp4",
+    "static/media/logo.jpg": "/happy-lips-demo-website/static/media/logo.4156715f77389c388023.jpg",
+    "index.html": "/happy-lips-demo-website/index.html",
+    "main.3d4861d5.css.map": "/happy-lips-demo-website/static/css/main.3d4861d5.css.map",
+    "main.b864b3af.js.map": "/happy-lips-demo-website/static/js/main.b864b3af.js.map",
+    "453.751e04e5.chunk.js.map": "/happy-lips-demo-website/static/js/453.751e04e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d4861d5.css",
-    "static/js/main.c746f0d8.js"
+    "static/js/main.b864b3af.js"
   ]
 }
